@@ -24,5 +24,9 @@ This  project contained watching the end of the Processing video on Youtube and 
 
 ## Projects
 ####  *Computational Vocabulary*
-#### *Data, Information,and Knowledge*
+I used my major, Fashion, to create an htm website page informing about the Jacquard Loom, what it is, and why it is important.
+![computational vocab webpage](file:///Users/sophiekonkey/Desktop/code/media/default.htm)
 
+#### *Data, Information,and Knowledge*
+This project I explained data, information, and knowledge and how it applied to my major, Fashion. I found and collected  raw data through some WGSN trend reports and put it together into a JavaScript application to demonstrate how raw data is converted into information and how the information generates knowledge. 
+![data, information, and knowledge](file:///Users/sophiekonkey/Desktop/Project%202/fashionrawdatawgsn.htm)

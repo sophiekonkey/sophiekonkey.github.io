@@ -4,7 +4,7 @@
 ## Assignments 
 #### *Character in Processing*
 This assingment was one of the very first experiences I had with coding and had the privellage of working on initially in the semester. 
-![my character](file:///Users/sophiekonkey/Documents/processingcharacter.png)
+<img width="566" alt="Screenshot 2025-04-09 at 2 28 34 AM" src="https://github.com/user-attachments/assets/5f87c1dd-6d8d-4e3e-a031-2fe532eccc8f" /> 
 
 #### *Data Visualization*
 During this assignment, I visited an interactive visualization of every line in Hamilton by Shirley Wu. It was a fun experience and I enjoyed playing around with the interactive data. Here were my answers and conclusions for this assignment:
@@ -16,17 +16,17 @@ During this assignment, I visited an interactive visualization of every line in 
 
 #### *Composition Creator*
 For this assignment I uploaded multiple jpg images into one program to construct one single composite image. Here was my final result:
-![my composition image](file:///Users/sophiekonkey/Downloads/annotated-Screenshot%25202025-02-19%2520at%252010.05.46%2520PM.png.pdf)
+<img width="745" alt="Screenshot 2025-04-09 at 2 29 21 AM" src="https://github.com/user-attachments/assets/c0e3cbe8-cde1-438c-bd2b-2e4f7471c2ec" />
 
 #### *Confetti Project*
 This  project contained watching the end of the Processing video on Youtube and following along with it to create our own version of the confetti project. I used different shapes and colors throughout my code to make a fun and unique confetti suprise for myself. 
-![confetti project](file:///Users/sophiekonkey/Desktop/confettiss.png)
+<img width="947" alt="confettiss" src="https://github.com/user-attachments/assets/cdac59ea-10da-4b06-9b19-ca6810aeb429" />
 
 ## Projects
 ####  *Computational Vocabulary*
 I used my major, Fashion, to create an htm website page informing about the Jacquard Loom, what it is, and why it is important.
-![computational vocab webpage](file:///Users/sophiekonkey/Desktop/code/media/default.htm)
+<img width="623" alt="Screenshot 2025-04-09 at 2 43 33 AM" src="https://github.com/user-attachments/assets/dbf0b8de-74da-46a6-87de-39fdb000baf8" />
 
 #### *Data, Information,and Knowledge*
 This project I explained data, information, and knowledge and how it applied to my major, Fashion. I found and collected  raw data through some WGSN trend reports and put it together into a JavaScript application to demonstrate how raw data is converted into information and how the information generates knowledge. 
-![data, information, and knowledge](file:///Users/sophiekonkey/Desktop/Project%202/fashionrawdatawgsn.htm)
+<img width="1249" alt="Screenshot 2025-04-08 at 11 01 41 PM" src="https://github.com/user-attachments/assets/cf499ff7-11c8-45c1-bda6-f2ea65cac4c4" />
